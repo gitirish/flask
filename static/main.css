@@ -1,0 +1,56 @@
+body{
+    background-color:burlywood;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: aliceblue;
+}
+table {
+    border: 1px solid;
+    padding: auto;
+  
+    
+    
+  }
+  form {
+    text-align: center;
+    size: 0cm;
+  }  
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    text-decoration: none;
+    align-items:right ;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  input {
+    width: 40%;
+    height:30px;
+    
+  }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+      
+    
+  }
+  td {
+    text-align: center;
+    height: 50px;
+   
+  } 
+  th {
+    background-color: black;
+    color: white;
+    height: 70px;
+  }
+  
+ 
+
